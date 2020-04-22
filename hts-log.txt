@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 Apr 2020 01:18:40 at https://www.urbanvillageproject.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by /3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.urbanvillageproject.com/ -O1 "C:\My Web Sites\st" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:18:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.net/t/1.css?apiType=css&projectid=d14edb54-2ee3-47e4-a095-0f84b1934d93
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 16 links scanned, 15 files written (9460214 bytes overall) [9449255 bytes received at 555838 bytes/sec], 21013 bytes transferred using HTTP compression in 1 files, ratio 6%, 1.7 requests per connection
+(No errors, 1 warnings, 0 messages)
